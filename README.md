@@ -28,7 +28,7 @@ Data pipeline to fetch and load CSV files into Azure Data Lake Gen2 for scalable
 
 Mounted Azure Data Lake Gen2 storage on Azure Databricks.
 
-Processed, cleaned, and aggregated the data using Apache Spark (PySpark).
+Processed, cleaned, and aggregated the data using Apache Spark.
 
 Applied transformations such as handling missing values, standardizing formats, and performing aggregations.
 
